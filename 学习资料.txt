@@ -1,0 +1,76 @@
+1、.NET Framework 4.7.2新特性  https://docs.microsoft.com/zh-cn/dotnet/framework/whats-new/#v472     
+
+2、C# 7.2 中的新增功能   https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-7-2   
+
+3、ASP.NET Core 入门    https://docs.microsoft.com/zh-cn/aspnet/core/getting-started?view=aspnetcore-2.1  
+
+4、EF Core教程  https://www.learnentityframeworkcore.com/
+
+5、.Net 微服务 https://docs.microsoft.com/zh-cn/dotnet/standard/microservices-architecture/architect-microservice-container-applications/microservices-architecture
+
+6、Swarm模式 https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/swarm-mode
+
+
+7、https://windsting.github.io/little-aspnetcore-book/book/chapters/deploy-the-application/deploy-to-azure.html
+8、在 Azure Web 应用中创建 PHP 应用程序  https://school.azure.cn/courses/57
+9、4、Autofac  http://autofaccn.readthedocs.io/zh/latest/lifetime/disposal.html#id6https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/aspnet-core-module?view=aspnetcore-2.0
+
+
+10、IdentityServer4  https://www.cnblogs.com/stulzq/p/8726002.html
+
+11、https://github.com/wjkang/IdentityServer4_ResourceOwnerPasswords
+
+12、ML.NET 机器学习 https://docs.microsoft.com/zh-cn/dotnet/machine-learning/
+
+
+
+多线程、异步编程
+
+1、线程处理 https://docs.microsoft.com/zh-cn/dotnet/standard/threading/
+
+2、异步编程 https://docs.microsoft.com/zh-cn/dotnet/csharp/async
+
+
+3、多个线程同时处理一个耗时较长的任务以节省时间  
+https://www.cnblogs.com/darrenji/p/3980252.html
+
+4、Task多线程并行任务中等待所有线程都执行完成   
+https://blog.csdn.net/zhaoyipei1977/article/details/54298857
+
+5、线程池中的I/O线程实现对文件、请求的异步    
+http://www.cnblogs.com/zhili/archive/2012/07/20/MultiThreads.html
+
+
+6、C#多线程、并行和异步编程学习笔记     
+https://blog.csdn.net/Chen_Victor/article/details/76408870
+
+
+7、在asp.net中使用多线程及队列，异步处理一个耗时的任务
+
+http://www.cnblogs.com/wangqiideal/p/5585352.html
+
+
+8、分布式事务之消息补偿解决方案  http://www.cnblogs.com/lanxiaoke/p/8321657.html
+
+9、ELK+Filebeat+Kafka+ZooKeeper 構建海量日誌分析平台
+https://hk.saowen.com/a/2b671b2b9a8e741cbaaafc5f81e6aafcbc2a4c5fd22917d66c66f2e34c2deeb4
+
+
+
+
+
+
+Vue相关
+
+
+0、https://demos.creative-tim.com/vue-material-dashboard/#/dashboard
+
+1、vue-UI框架  https://vuematerial.io/getting-started
+
+2、https://vue-loader-v14.vuejs.org/zh-cn/
+
+3、https://vuex.vuejs.org/zh/
+
+4、https://panjiachen.github.io/vue-element-admin-site/#/zh-cn/README
+
+5、https://router.vuejs.org/zh/

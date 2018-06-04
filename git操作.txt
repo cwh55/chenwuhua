@@ -1,0 +1,5 @@
+1、git init 
+2、git remote add origin O利匈全俊
+3、git add .
+4、git commit -m ".net core demo"
+5、git push -u origin master ????
