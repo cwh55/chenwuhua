@@ -74,3 +74,5 @@ Vue相关
 4、https://panjiachen.github.io/vue-element-admin-site/#/zh-cn/README
 
 5、https://router.vuejs.org/zh/
+
+6、https://github.com/PanJiaChen/vueAdmin-template
