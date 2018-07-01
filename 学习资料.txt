@@ -23,6 +23,10 @@
 12、ML.NET 机器学习 https://docs.microsoft.com/zh-cn/dotnet/machine-learning/
 
 
+基于JWT Authentication来定制的我们自己的认证方案
+http://www.jessetalk.cn/2017/11/03/asp-net-core-authentication-with-legacy-system/
+
+
 
 多线程、异步编程
 
