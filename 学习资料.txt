@@ -113,7 +113,7 @@ https://www.lavafox.com/blog_post.aspx?Bid=2350
 https://segmentfault.com/a/1190000007587296
 
 
-
+学到了标准的项目流程化管理，也养成了严谨的编码习惯、编码风格，同时也更注重项目质量、性能和安全性，成长颇为丰富
 
 
 public class UserDataKeepManageImpl<T> : UserDataKeepManage<T>
