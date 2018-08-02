@@ -61,22 +61,42 @@ https://hk.saowen.com/a/2b671b2b9a8e741cbaaafc5f81e6aafcbc2a4c5fd22917d66c66f2e3
 
 
 
+1、gulp、、、  ES6、Less、requireJs、webpack、nodeJS、vueJS、
+
+2、数据分析系统 、web日志系统、、、告警服务 Sentry、zabbix监控
+
+3、ELK日志服务
+
+4、Nginx
+
+5、TFS文件存储系统
+
+6、微服务
+
+7、Linux、
+
+8、spark大数据、mapreduce
+
+9、zookeeper分布式服务框架、gearman
+
+10、k8s、Docket
+
+
+其他：plupload上传\分片上传、轮询、trimpath模板、Filebeat
+beats、kibana、哈希、Openresty
+
+
+
+
 
 织梦视频网站模板 
 用dedecms搭建属于自己的视频网站
 http://www.makesicms.com/
-
 https://www.genban.org/news/dedecms-3894.html
-
 https://www.jb51.net/cms/107979.html
-
-
 https://jingyan.baidu.com/article/046a7b3ebdd31bf9c37fa958.html
-
 http://www.360doc.com/content/15/0315/01/21786663_455197150.shtml
-
 http://www.adminbuy.cn/dedecms/387.html
-
 http://www.adminbuy.cn/dedecmsjc/13.html
 
 
