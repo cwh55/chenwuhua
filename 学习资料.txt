@@ -61,29 +61,7 @@ https://hk.saowen.com/a/2b671b2b9a8e741cbaaafc5f81e6aafcbc2a4c5fd22917d66c66f2e3
 
 
 
-1、gulp、、、  ES6、Less、requireJs、webpack、nodeJS、vueJS、
 
-2、数据分析系统 、web日志系统、、、告警服务 Sentry、zabbix监控
-
-3、ELK日志服务
-
-4、Nginx
-
-5、TFS文件存储系统
-
-6、微服务
-
-7、Linux、
-
-8、spark大数据、mapreduce
-
-9、zookeeper分布式服务框架、gearman
-
-10、k8s、Docket
-
-
-其他：plupload上传\分片上传、轮询、trimpath模板、Filebeat
-beats、kibana、哈希、Openresty
 
 
 
@@ -147,8 +125,6 @@ https://github.com/ShadowSocks
 https://github.com/shadowsocks/shadowsocks-windows
 
 
-
-
 英语
 https://www.lavafox.com/blog_post.aspx?Bid=2350
 
@@ -156,11 +132,6 @@ https://www.lavafox.com/blog_post.aspx?Bid=2350
 多选插件
 https://segmentfault.com/a/1190000007587296
 
-
-来公司的两个月里，我学到了标准的项目流程化管理，学到了前后分离、分层解耦等优秀的编程思想，
-也养成了严谨的编码习惯和编码风格，同时也更注重项目质量，性能和安全性，
-在日常工作与同事的沟通中，也从他们身上学到了一些高效的工作方法和踏实的工作态度，让我成长颇为丰富。
-今后的日子里，我会继续努力，与公司一起成长，一起进步，为公司的壮大贡献自己的力量。
 
 public class UserDataKeepManageImpl<T> : UserDataKeepManage<T>
     {
