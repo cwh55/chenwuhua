@@ -161,3 +161,7 @@ public class UserDataKeepManageImpl<T> : UserDataKeepManage<T>
             return token;
         }
     }
+
+
+桌上还是摆着他的照片;手机铃声是他爱的晴天;房间风格他离开也不变;床边扔不掉他送的那些；
+朋友聚会他在也不避嫌;喝酒猜拳表演的很明显
